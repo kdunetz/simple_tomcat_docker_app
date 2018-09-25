@@ -62,6 +62,3 @@ You can run this command to enter the container and check the files under the we
 docker exec -it tomcat bash
 ls -lrt /usr/local/tomcat/webapps
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-# simple_tomcat_docker_app
-# simple_tomcat_docker_app
